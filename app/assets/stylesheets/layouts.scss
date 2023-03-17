@@ -1,14 +1,14 @@
+main {
+  height: calc(100vh - 50px);
+  min-height: calc(100vh - 50px);
+  padding-top: 60px;
+}
 
-main{
-    height: calc(100vh - 50px);
-    min-height: calc(100vh - 50px);
-    padding-top: 60px;
-} 
-
-hooter {
-    height: 50px;
+footer {
+  height: 50px;
 }
 
 .bg-home {
-    background-color: #1e90ff;
+  background-color: #1e90ff;
 }
+

@@ -1,5 +1,5 @@
-module ApplicationHelper
-  def bs4_bgcolor_for(flash_key)
+ module ApplicationHelper
+    def bs4_bgcolor_for(flash_key)
       case flash_key
       when "success"
         "alert-success"
@@ -14,4 +14,6 @@ module ApplicationHelper
       end
     end
   end
+
+
 
